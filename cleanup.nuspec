@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>cleanup</id>
+    <version>4.5.2</version>
+    <packageSourceUrl>http://stevengould.org/downloads/cleanup/CleanUp452.exe</packageSourceUrl>
+    <owners>basictheprogram</owners>
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>CleanUp! 4.5.2</title>
+    <authors>Steven R. Gould</authors>
+    <projectUrl>http://bit.ly/2xGFNWz</projectUrl>
+    <iconUrl>https://github.com/basictheprogram/chocolatey-CleanUp/Cleanup.png</iconUrl>
+    <copyright>CleanUp! ("the software") is freeware</copyright>
+    <licenseUrl>http://bit.ly/2xHDa6N</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <mailingListUrl>http://bit.ly/2xIxPvQ</mailingListUrl>
+    <tags>CleanUp Windows</tags>
+    <summary>Free disk space and protect your privacy.</summary>
+    <description>Introducing Windows CleanUp!, the quickest and easiest way to delete temporary files from your system.
+
+CleanUp! is a powerful and easy-to-use application that removes temporary files created while surfing the web, empties the Recycle Bin, deletes files from your temporary folders and more.
+
+CleanUp! frees disk space and reduces the "clutter" on your computer helping it to run more efficiently. It also can be used as a way to protect your privacy on the Internet. You can even instruct CleanUp! to securely delete files making it impossible to retrieve their contents using lower-level disk tools - just another way of protecting your privacy.
+
+No gimmicks here, CleanUp! is so easy to set up and use that you'll have a lean, clean, mean machine in minutes.
+
+* [Features](http://bit.ly/2xInMqL)
+* [System Requirements](http://bit.ly/2xHrC3v)
+* [Support](http://bit.ly/2xGRDA1)
+* [Credits](http://bit.ly/2xHso0p)
+    </description>
+    <releaseNotes>http://stevengould.org/software/cleanup/WhatsNew45.html</releaseNotes>
+    <dependencies> 
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
