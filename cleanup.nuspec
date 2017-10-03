@@ -33,6 +33,7 @@ No gimmicks here, CleanUp! is so easy to set up and use that you'll have a lean,
     </description>
     <releaseNotes>http://stevengould.org/software/cleanup/WhatsNew45.html</releaseNotes>
     <dependencies> 
+      <dependency id="autoit" version="3.3.14.2" />
     </dependencies>
   </metadata>
   <files>
