@@ -6,16 +6,15 @@
     <id>cleanup</id>
     <version>4.5.2</version>
     <packageSourceUrl>http://stevengould.org/downloads/cleanup/CleanUp452.exe</packageSourceUrl>
-    <owners>basictheprogram</owners>
-    <!-- == SOFTWARE SPECIFIC SECTION == -->
-    <title>CleanUp! 4.5.2</title>
+    <owners>BasicTheProgram</owners>
+    <title>CleanUp!</title>
     <authors>Steven R. Gould</authors>
-    <projectUrl>http://bit.ly/2xGFNWz</projectUrl>
-    <iconUrl>http://bit.ly/2xV3zOy</iconUrl>
+    <projectUrl>http://www.stevengould.org/index.php?option=com_content&task=view&id=15&Itemid=223</projectUrl>
+    <iconUrl>https://basictheprogram.github.io/chocolatey-package-cleanup/Cleanup.png</iconUrl>
     <copyright>CleanUp! ("the software") is freeware</copyright>
-    <licenseUrl>http://bit.ly/2xHDa6N</licenseUrl>
+    <licenseUrl>http://www.stevengould.org/index.php?option=com_content&task=view&id=53&Itemid=93</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <mailingListUrl>http://bit.ly/2xIxPvQ</mailingListUrl>
+    <mailingListUrl>http://www.stevengould.org/index.php?option=com_registration&task=register</mailingListUrl>
     <tags>CleanUp Windows</tags>
     <summary>Free disk space and protect your privacy.</summary>
     <description>Introducing Windows CleanUp!, the quickest and easiest way to delete temporary files from your system.
@@ -26,10 +25,10 @@ CleanUp! frees disk space and reduces the "clutter" on your computer helping it 
 
 No gimmicks here, CleanUp! is so easy to set up and use that you'll have a lean, clean, mean machine in minutes.
 
-* [Features](http://bit.ly/2xInMqL)
-* [System Requirements](http://bit.ly/2xHrC3v)
-* [Support](http://bit.ly/2xGRDA1)
-* [Credits](http://bit.ly/2xHso0p)
+* [Features](http://www.stevengould.org/index.php?option=com_content&task=view&id=167&Itemid=253)
+* [System Requirements](http://www.stevengould.org/index.php?option=com_content&task=view&id=187&Itemid=272)
+* [Support](http://www.stevengould.org/index.php?option=com_content&task=view&id=17&Itemid=127)
+* [Credits](http://www.stevengould.org/index.php?option=com_content&task=view&id=40&Itemid=82)
     </description>
     <releaseNotes>http://stevengould.org/software/cleanup/WhatsNew45.html</releaseNotes>
     <dependencies> 
