@@ -5,7 +5,7 @@
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>cleanup</id>
     <version>4.5.2.20190522</version>
-    <packageSourceUrl>http://stevengould.org/downloads/cleanup/CleanUp452.exe</packageSourceUrl>
+    <packageSourceUrl>https://github.com/basictheprogram/chocolatey-package-cleanup</packageSourceUrl>
     <owners>BasicTheProgram</owners>
     <title>CleanUp!</title>
     <authors>Steven R. Gould</authors>
