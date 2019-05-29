@@ -27,8 +27,7 @@ $autoitFile = Join-Path $toolsDir 'cleanup.au3'
 $fileFullPath = Join-Path $WorkSpace $fullPackage
 Write-Debug "$autoitFile"
 Write-Debug "$fileFullPath"
-$autoitProc = Start-ChocolateyProcessAsAdmin  -FilePath $autoitExe -ArgumentList "$autoitFile $fileFullPath" -PassThru
-$autoitId = $autoitProc.Id
+Start-Process  -FilePath $autoitExe -ArgumentList "$autoitFile $fileFullPath" -PassThru
 
 $InstallArgs = @{
    PackageName    = $packageName
