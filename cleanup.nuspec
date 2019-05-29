@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>cleanup</id>
     <version>4.5.2.20190522</version>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-package-cleanup</packageSourceUrl>
     <owners>BasicTheProgram</owners>
     <title>CleanUp!</title>
     <authors>Steven R. Gould</authors>
-    <projectUrl>http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=15&amp;Itemid=223</projectUrl>
-    <iconUrl>https://basictheprogram.github.io/chocolatey-package-cleanup/Cleanup.png</iconUrl>
-    <copyright>CleanUp! ("the software") is freeware</copyright>
-    <licenseUrl>http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=53&amp;Itemid=93</licenseUrl>
+    <projectUrl>   
+      <![CDATA[
+        http://www.stevengould.org/index.php?option=com_content&task=view&id=15&Itemid=223
+      ]]>
+    </projectUrl>
+    <iconUrl>https://basictheprogram.github.io/chocolatey-package-cleanup/icons/cleanup.png</iconUrl>
+    <copyright>Steven Gould</copyright>
+    <licenseUrl>
+      <![CDATA[
+          http://www.stevengould.org/index.php?option=com_content&task=view&id=53&Itemid=93
+      ]]>
+    </licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <mailingListUrl>http://www.stevengould.org/index.php?option=com_registration&amp;task=register</mailingListUrl>
+    <mailingListUrl>
+      <![CDATA[
+        http://www.stevengould.org/index.php?option=com_registration&task=register
+      ]]>
+    </mailingListUrl>
     <tags>CleanUp Windows</tags>
     <summary>Free disk space and protect your privacy.</summary>
     <description>Introducing Windows CleanUp!, the quickest and easiest way to delete temporary files from your system.
@@ -25,10 +35,10 @@ CleanUp! frees disk space and reduces the "clutter" on your computer helping it 
 
 No gimmicks here, CleanUp! is so easy to set up and use that you'll have a lean, clean, mean machine in minutes.
 
-* [Features](http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=167&amp;Itemid=253)
-* [System Requirements](http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=187&amp;Itemid=272)
-* [Support](http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=17&amp;Itemid=127)
-* [Credits](http://www.stevengould.org/index.php?option=com_content&amp;task=view&amp;id=40&amp;Itemid=82)
+* [Features](<![CDATA[http://www.stevengould.org/index.php?option=com_content&task=view&id=167&Itemid=253]]>)
+* [System Requirements](<![CDATA[http://www.stevengould.org/index.php?option=com_content&task=view&id=187&Itemid=272]]>)
+* [Support](<![CDATA[http://www.stevengould.org/index.php?option=com_content&task=view&id=17&Itemid=127]]>)
+* [Credits](<![CDATA[http://www.stevengould.org/index.php?option=com_content&task=view&id=40&Itemid=82]]>)
     </description>
     <releaseNotes>http://stevengould.org/software/cleanup/WhatsNew45.html</releaseNotes>
     <dependencies> 
