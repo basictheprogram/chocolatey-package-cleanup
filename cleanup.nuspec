@@ -12,7 +12,7 @@
         http://www.stevengould.org/index.php?option=com_content&task=view&id=15&Itemid=223
       ]]>
     </projectUrl>
-    <iconUrl>https://basictheprogram.github.io/chocolatey-package-cleanup/icons/cleanup.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/basictheprogram/chocolatey-package-cleanup/icons/cleanup.png</iconUrl>
     <copyright>Steven Gould</copyright>
     <licenseUrl>
       <![CDATA[
